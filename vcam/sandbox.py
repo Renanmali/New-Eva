@@ -1,6 +1,6 @@
 import cv2
 from sys import argv
-import vcam_reader
+import vcam.vcam_reader as vcam_reader
 
 buffer = vcam_reader.init(argv[1])
 
