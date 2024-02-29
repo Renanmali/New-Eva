@@ -1,0 +1,6 @@
+README.md
+setup.py
+vcam.egg-info/PKG-INFO
+vcam.egg-info/SOURCES.txt
+vcam.egg-info/dependency_links.txt
+vcam.egg-info/top_level.txt
